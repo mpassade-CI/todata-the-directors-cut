@@ -2,8 +2,8 @@
 
 There are three main ways we could extend Todata.
 
-1. A good README.
-2. Full functionality.
+1. Give it a good README.
+2. Upgrade its functionality.
 3. Make it beautiful.
 
 
@@ -31,3 +31,13 @@ Some good resources on what makes a good README in larger projects (including th
 * An article about [what makes a good README for an open-source project](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9#template). It also has a great README template.
 * This one is just [another good README template](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46).
 * [README Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - A short manifesto for writing the README as the very first thing.
+
+
+### Upgrade Its Functionality.
+
+Guidelines coming soon!
+
+
+### Make It Beautiful
+
+Guidelines coming soon!
