@@ -1,19 +1,9 @@
 # Todata - The Director's Cut
 
-There are three main ways we could extend Todata.
-
-1. Give it a good README.
-2. Upgrade its functionality.
-3. Make it beautiful.
-
 
 ### README
 
-This is our absolute first priority with this project. This is what you will be presenting FIRST in your presentations on Monday.
-
-The reason is that it's time we started focusing on the polish of our apps. And as (currently) solo developers, your apps are first and foremost demonstrations of your ability.
-
-Whatever the state of your projects, be they just started or ready to deploy, they will be much more attractive packages with full documentation. It shows that you think deeply about what you're doing and can explain it succinctly. And if you can't explain it succinctly... well, it's time to start practicing!
+![alt text]./todata.png
 
 Here's what your README should include:
 1. A screenshot of the app. (Feel free to update this if you change its look!
